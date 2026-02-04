@@ -1,0 +1,12 @@
+{
+  "name": "intents-widget",
+  "description": "Aurora Intents Widget helpers - setup, configure, and troubleshoot the cross-chain swap widget",
+  "commands": {
+    "widget-demo": {
+      "description": "Create a minimal Next.js demo page with the Intents swap widget"
+    },
+    "widget-config": {
+      "description": "Generate widget configuration for standalone or dApp mode"
+    }
+  }
+}

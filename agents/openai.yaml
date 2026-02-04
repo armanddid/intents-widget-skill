@@ -1,6 +1,0 @@
-interface:
-  display_name: "Intents Swap Widget"
-  short_description: "Implement Aurora Labs cross-chain token swapping widget"
-  icon_small: "./assets/intents-small.svg"
-  icon_large: "./assets/intents.png"
-  default_prompt: "Help me set up the Aurora Labs Intents Swap Widget for cross-chain token swapping in my app."
